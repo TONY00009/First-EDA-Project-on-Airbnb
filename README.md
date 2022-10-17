@@ -5,5 +5,5 @@ Analyzing data of 2019 Airbnb on NYC !!
 
 
 
-Here we have analyzed a data set from Airbnb on New York City using 'Airbnb NYC 2019.csv' and tried to gather some useful intel from it using basic analysis operations and displayed them using various graphs.
+Here we have analyzed a data set from Airbnb on New York City using 'Airbnb NYC 2019.csv' and tried to gather some useful intel from it through basic analysis operations and displayed them using various graphs.
 
