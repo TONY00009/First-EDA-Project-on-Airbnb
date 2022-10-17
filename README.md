@@ -1,5 +1,5 @@
 # First-EDA-Project-on-Airbnb by Mayank Sharma
-Analyzing data of 2019 Airbnb New York !!
+Analyzing data of 2019 Airbnb on NYC !!
 
 ![94WF (3)](https://user-images.githubusercontent.com/85400805/196157749-933033b0-f40a-4b10-9c4d-5c21714ebaba.gif)
 
